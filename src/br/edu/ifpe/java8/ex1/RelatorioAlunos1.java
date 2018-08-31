@@ -26,7 +26,7 @@ import br.edu.ifpe.java8.entidades.Aluno;
  * Logo, o seu trabalho é basicamente, utilizando programação funcional, modificar o mecanismo 
  * de geração de relatórios para evitar ifs e switchs ao longo do método abaixo.
  * 
- * @author Victor Lira
+ *
  *
  */
 public class RelatorioAlunos1 {
